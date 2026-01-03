@@ -10,12 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/Dmitry-ekb/hexlet-js.git"
   },
-  "keywords": ["Hexlet", "javascript", "learning"],
+  "keywords": [
+    "Hexlet",
+    "javascript",
+    "learning"
+  ],
   "author": "Dmitry",
   "license": "ISC",
   "type": "module",
   "bugs": {
     "url": "https://github.com/Dmitry-ekb/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Dmitry-ekb/hexlet-js#readme"
+  "homepage": "https://github.com/Dmitry-ekb/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
