@@ -1,0 +1,21 @@
+{
+  "name": "hexlet-js",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitry-ekb/hexlet-js.git"
+  },
+  "keywords": ["Hexlet", "javascript", "learning"],
+  "author": "Dmitry",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dmitry-ekb/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Dmitry-ekb/hexlet-js#readme"
+}
