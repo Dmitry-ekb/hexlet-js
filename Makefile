@@ -1,4 +1,10 @@
 install:
 	npm ci
 
-.PHONY: install
+lint:
+	npx eslint .
+
+lint-fix:
+	npx eslint --fix .
+
+.PHONY: install lint lint-fix
