@@ -1,3 +1,3 @@
-import _ from 'lodash'
-console.log('Hello, Hexlet!')
-console.log(_.last(['one', 'two']))
+import mainFunction from './src/index.js'
+
+mainFunction()
